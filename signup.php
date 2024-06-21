@@ -3,8 +3,8 @@ require("includes/header.php");
 ?>
 <style>
     .highlight {
-    color: #1A76D1; /* Chuyển màu chữ thành màu xanh */
-    font-weight: bold; /* In đậm chữ */
+    color: #1A76D1;
+    font-weight: bold; 
 }
 </style>			
 		<!-- Start Contact Us -->
@@ -16,7 +16,7 @@ require("includes/header.php");
 							<div class="contact-us-form">
 								<h1>Đăng kí</h1>
 								<!-- Form -->
-								<form class="form" method="post" action="mail/mail.php">
+								<form class="form" method="post" action = "signup_process.php">
 									<div class="row">
 										<div class="col-lg-12">
 											<div class="form-group">
@@ -52,7 +52,6 @@ require("includes/header.php");
 				</div>
 			</div>
 		</section>
-		<!--/ End Contact Us -->
 
 
 <?php

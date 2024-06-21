@@ -111,7 +111,8 @@
 							</div>
 							<div class="col-lg-2 col-12">
 								<div class="get-quote">
-									<a href="login.php" class="btn">Đăng nhập/Đăng kí</a>
+								
+									<!--a href="login.php" class="btn">Đăng nhập/Đăng kí</a-->
 								</div>
 							</div>
 						</div>
